@@ -5,6 +5,7 @@ Neste projeto, vamos trabalhar como cientistas de dados de uma empresa que prest
 Ao longo do projeto, vamos desenvolver um projeto para que essa empresa possa otimizar esses serviços de aconselhamento e consultoria para essas pessoas que desejam fazer imigração.
 
 Com esse projeto, vamos aprender:
+
 Plotar gráficos;
 Adicionar títulos e rótulos nos eixos;
 Criar figuras e, inclusive, com mais de um gráfico na mesma imagem (subplots);
