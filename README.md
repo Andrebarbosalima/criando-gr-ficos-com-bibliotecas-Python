@@ -1,4 +1,5 @@
 # criando-gr-ficos-com-bibliotecas-Python
+
 Neste projeto, vamos trabalhar como cientistas de dados de uma empresa que presta um serviço de consultoria para pessoas que querem imigrar do Brasil para o Canadá.
 Ao longo do projeto, vamos desenvolver um projeto para que essa empresa possa otimizar esses serviços de aconselhamento e consultoria para essas pessoas que desejam fazer imigração.
 
